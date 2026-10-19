@@ -82,6 +82,3 @@ Tinkercad Project Link: https://www.tinkercad.com/things/kGFayXuSt4a-automated-v
 Syed Hamza Noor
 Computer Science and Engineering Student  
 
-## 📄 License
-
-This project is available for educational and learning purposes. Add a suitable open-source license if you want to permit others to reuse or modify your work.
